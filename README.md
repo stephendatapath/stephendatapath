@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> 
 <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=tensorflow&logoColor=white">  
 ---
+
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephendatapath&show_icons=true&theme=radical)
